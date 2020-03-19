@@ -1,6 +1,10 @@
 package main
 
+import "fmt"
+
 func main() {
 	a := 1
-	print(a)
+	fmt.Println(a)
+	fmt.Println("cnm")
+
 }
